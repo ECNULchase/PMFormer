@@ -12,7 +12,8 @@ This is an implementation of the Point Mask Transformer model for outdoor point 
 ## Data Preparation
 
 ### SemanticKITTI
-Please download the files from the [SemanticKITTI website](http://semantic-kitti.org/dataset.html) 
+Please download the files from the [SemanticKITTI website](http://semantic-kitti.org/dataset.html).
+
 Organize the data in the following directory structure:
 ```
 ./dataset/
