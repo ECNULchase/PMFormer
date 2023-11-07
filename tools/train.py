@@ -5,11 +5,6 @@ import os
 import os.path as osp
 import time
 import warnings
-
-import sys
-sys.path[-2] = '/data/chm/Codes/lxq/pmformer'
-
-
 import mmcv
 import torch
 import torch.distributed as dist
