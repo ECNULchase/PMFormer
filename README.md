@@ -6,7 +6,7 @@ This is an implementation of the Point Mask Transformer model for outdoor point 
 ## requirements
 - [spconv](https://github.com/traveller59/spconv)
 - [torchscatter](https://github.com/rusty1s/pytorch_scatter)
-Please follow the [mmselfsup](https://github.com/open-mmlab/mmselfsup) installation environment.
+- Please follow the [mmselfsup](https://github.com/open-mmlab/mmselfsup) installation environment.
 
 
 ## Data Preparation
